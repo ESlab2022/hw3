@@ -38,3 +38,5 @@ sudo python ble_scan_connect.py
 
 ### Demo
 
+https://user-images.githubusercontent.com/8317457/196878935-eba03fdb-065c-4781-8d05-502f919eab5a.mp4
+
